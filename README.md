@@ -53,4 +53,13 @@ _Designing systems that make life simpler and smarter._
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
+<!-- MONTHLY_GRAPH:START -->
+<!-- MONTHLY_GRAPH:END -->
+
 </div>
