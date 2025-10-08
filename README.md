@@ -54,12 +54,23 @@ _Designing systems that make life simpler and smarter._
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 <!-- PROJECTS:START -->
+### 🔄 Currently Building
+- **[kskmasa](https://github.com/kskmasa/kskmasa)** — No description  
+  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 28s ago</sub>
+- **[UseGithubHowTo](https://github.com/kskmasa/UseGithubHowTo)** — No description  
+  <sub><span style='display:inline-block;width:10px;height:10px;background:#cccccc;border-radius:50%;vertical-align:middle;margin-right:6px'></span>- • ⭐ 0 • updated 2h ago</sub>
 <!-- PROJECTS:END -->
 
 <!-- ACTIVITY:START -->
+### 🏃 Recent Activity
+- ⏺️ pushed **5** commit(s) to [kskmasa](https://github.com/kskmasa/kskmasa)  <sub>-2496s ago</sub>
+- ⏺️ pushed **1** commit(s) to [UseGithubHowTo](https://github.com/kskmasa/UseGithubHowTo)  <sub>-2496s ago</sub>
 <!-- ACTIVITY:END -->
 
 <!-- MONTHLY_GRAPH:START -->
+### 🕓 This Month
+
+![Monthly Activity](assets/monthly_activity.svg)
 <!-- MONTHLY_GRAPH:END -->
 
 </div>
