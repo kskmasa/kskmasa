@@ -3,7 +3,7 @@ name: Update Profile README
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 0 * * *" # 毎日09:17(JST)頃
+    - cron: "0 0 * * *"  # 毎日 09:00 JST 相当（UTC 00:00）
 
 permissions:
   contents: write
