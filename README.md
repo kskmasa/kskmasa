@@ -1,7 +1,7 @@
 <!-- =========================================================
 GitHub Profile README — Modern / Minimal / Animated
 TODO:
-  1) YOUR_GITHUB_ID を自分のIDに置換
+  1) kskmasa を自分のIDに置換
   2) 各SNSリンクを差し替え
   3) assets/monthly_activity.svg はワークフローが自動生成
 ========================================================= -->
@@ -17,8 +17,8 @@ TODO:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kskmasa&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kskmasa&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs"/>
 </p>
 
 <a href="https://git.io/typing-svg">
