@@ -45,11 +45,11 @@ TODO:
 <!-- PROJECTS:START -->
 ### 🔄 Currently Building
 - **[kskmasa](https://github.com/kskmasa/kskmasa)** — No description  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 1d ago</sub>
+  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 23h ago</sub>
 - **[advent-5x5-hands-on-template](https://github.com/kskmasa/advent-5x5-hands-on-template)** — 5日×5テーマのハンズオンAdventテンプレート  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 6d ago</sub>
+  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 7d ago</sub>
 - **[UseGithubHowTo](https://github.com/kskmasa/UseGithubHowTo)** — No description  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#cccccc;border-radius:50%;vertical-align:middle;margin-right:6px'></span>- • ⭐ 0 • updated 13d ago</sub>
+  <sub><span style='display:inline-block;width:10px;height:10px;background:#cccccc;border-radius:50%;vertical-align:middle;margin-right:6px'></span>- • ⭐ 0 • updated 14d ago</sub>
 <!-- PROJECTS:END -->
 
 ---
@@ -57,10 +57,8 @@ TODO:
 ## 🏃 最近の活動
 <!-- ACTIVITY:START -->
 ### 🏃 Recent Activity
-- ⏺️ pushed **1** commit(s) to [advent-5x5-hands-on-template](https://github.com/kskmasa/advent-5x5-hands-on-template)  <sub>6d ago</sub>
-- ⏺️ pushed **6** commit(s) to [kskmasa](https://github.com/kskmasa/kskmasa)  <sub>12d ago</sub>
+- ⏺️ pushed **1** commit(s) to [advent-5x5-hands-on-template](https://github.com/kskmasa/advent-5x5-hands-on-template)  <sub>7d ago</sub>
 - ⏺️ pushed **6** commit(s) to [kskmasa](https://github.com/kskmasa/kskmasa)  <sub>13d ago</sub>
-- ⏺️ pushed **1** commit(s) to [UseGithubHowTo](https://github.com/kskmasa/UseGithubHowTo)  <sub>13d ago</sub>
 <!-- ACTIVITY:END -->
 
 ---
