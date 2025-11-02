@@ -8,7 +8,7 @@ TODO:
 
 <div align="center">
 
-# 👋 Hi, I'm **Your Name**
+# 👋 Hi, I'm Tanakaaa
 *Designing systems that make life simpler and smarter.*
 
 ✨ Full-stack Engineer / Product Designer  
