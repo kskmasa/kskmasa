@@ -45,11 +45,11 @@ TODO:
 <!-- PROJECTS:START -->
 ### 🔄 Currently Building
 - **[kskmasa](https://github.com/kskmasa/kskmasa)** — No description  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 23h ago</sub>
+  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 1d ago</sub>
 - **[advent-5x5-hands-on-template](https://github.com/kskmasa/advent-5x5-hands-on-template)** — 5日×5テーマのハンズオンAdventテンプレート  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 104d ago</sub>
+  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 105d ago</sub>
 - **[UseGithubHowTo](https://github.com/kskmasa/UseGithubHowTo)** — No description  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#cccccc;border-radius:50%;vertical-align:middle;margin-right:6px'></span>- • ⭐ 0 • updated 111d ago</sub>
+  <sub><span style='display:inline-block;width:10px;height:10px;background:#cccccc;border-radius:50%;vertical-align:middle;margin-right:6px'></span>- • ⭐ 0 • updated 112d ago</sub>
 <!-- PROJECTS:END -->
 
 ---
