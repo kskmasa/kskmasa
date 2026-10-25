@@ -10,212 +10,212 @@
   <text x="30" y="22" class="title" fill="#ffffff">This Month Activity (last 30 days)</text>
   <g>
     
-        <g class="bar" transform="translate(30.00, 195.00)">
-          <title>2026-09-25: 4</title>
-          <rect x="0" y="0" width="19.73" height="15.00" rx="6" ry="6"
+        <g class="bar" transform="translate(30.00, 202.50)">
+          <title>2026-09-26: 2</title>
+          <rect x="0" y="0" width="19.73" height="7.50" rx="6" ry="6"
                 style="animation: grow 0.8s 0.00s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(54.67, 202.50)">
-          <title>2026-09-26: 2</title>
-          <rect x="0" y="0" width="19.73" height="7.50" rx="6" ry="6"
+        <g class="bar" transform="translate(54.67, 90.00)">
+          <title>2026-09-27: 32</title>
+          <rect x="0" y="0" width="19.73" height="120.00" rx="6" ry="6"
                 style="animation: grow 0.8s 0.03s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(79.33, 90.00)">
-          <title>2026-09-27: 32</title>
-          <rect x="0" y="0" width="19.73" height="120.00" rx="6" ry="6"
+        <g class="bar" transform="translate(79.33, 101.25)">
+          <title>2026-09-28: 29</title>
+          <rect x="0" y="0" width="19.73" height="108.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.06s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(104.00, 101.25)">
-          <title>2026-09-28: 29</title>
-          <rect x="0" y="0" width="19.73" height="108.75" rx="6" ry="6"
+        <g class="bar" transform="translate(104.00, 153.75)">
+          <title>2026-09-29: 15</title>
+          <rect x="0" y="0" width="19.73" height="56.25" rx="6" ry="6"
                 style="animation: grow 0.8s 0.09s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(128.67, 153.75)">
-          <title>2026-09-29: 15</title>
-          <rect x="0" y="0" width="19.73" height="56.25" rx="6" ry="6"
+        <g class="bar" transform="translate(128.67, 172.50)">
+          <title>2026-09-30: 10</title>
+          <rect x="0" y="0" width="19.73" height="37.50" rx="6" ry="6"
                 style="animation: grow 0.8s 0.12s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(153.33, 172.50)">
-          <title>2026-09-30: 10</title>
-          <rect x="0" y="0" width="19.73" height="37.50" rx="6" ry="6"
+        <g class="bar" transform="translate(153.33, 30.00)">
+          <title>2026-10-01: 48</title>
+          <rect x="0" y="0" width="19.73" height="180.00" rx="6" ry="6"
                 style="animation: grow 0.8s 0.15s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(178.00, 30.00)">
-          <title>2026-10-01: 48</title>
-          <rect x="0" y="0" width="19.73" height="180.00" rx="6" ry="6"
+        <g class="bar" transform="translate(178.00, 187.50)">
+          <title>2026-10-02: 6</title>
+          <rect x="0" y="0" width="19.73" height="22.50" rx="6" ry="6"
                 style="animation: grow 0.8s 0.18s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(202.67, 187.50)">
-          <title>2026-10-02: 6</title>
-          <rect x="0" y="0" width="19.73" height="22.50" rx="6" ry="6"
+        <g class="bar" transform="translate(202.67, 157.50)">
+          <title>2026-10-03: 14</title>
+          <rect x="0" y="0" width="19.73" height="52.50" rx="6" ry="6"
                 style="animation: grow 0.8s 0.21s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(227.33, 157.50)">
-          <title>2026-10-03: 14</title>
-          <rect x="0" y="0" width="19.73" height="52.50" rx="6" ry="6"
+        <g class="bar" transform="translate(227.33, 198.75)">
+          <title>2026-10-04: 3</title>
+          <rect x="0" y="0" width="19.73" height="11.25" rx="6" ry="6"
                 style="animation: grow 0.8s 0.24s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
         <g class="bar" transform="translate(252.00, 198.75)">
-          <title>2026-10-04: 3</title>
+          <title>2026-10-05: 3</title>
           <rect x="0" y="0" width="19.73" height="11.25" rx="6" ry="6"
                 style="animation: grow 0.8s 0.27s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(276.67, 198.75)">
-          <title>2026-10-05: 3</title>
-          <rect x="0" y="0" width="19.73" height="11.25" rx="6" ry="6"
+        <g class="bar" transform="translate(276.67, 116.25)">
+          <title>2026-10-06: 25</title>
+          <rect x="0" y="0" width="19.73" height="93.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.30s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(301.33, 116.25)">
-          <title>2026-10-06: 25</title>
-          <rect x="0" y="0" width="19.73" height="93.75" rx="6" ry="6"
+        <g class="bar" transform="translate(301.33, 172.50)">
+          <title>2026-10-07: 10</title>
+          <rect x="0" y="0" width="19.73" height="37.50" rx="6" ry="6"
                 style="animation: grow 0.8s 0.33s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(326.00, 172.50)">
-          <title>2026-10-07: 10</title>
-          <rect x="0" y="0" width="19.73" height="37.50" rx="6" ry="6"
+        <g class="bar" transform="translate(326.00, 165.00)">
+          <title>2026-10-08: 12</title>
+          <rect x="0" y="0" width="19.73" height="45.00" rx="6" ry="6"
                 style="animation: grow 0.8s 0.36s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(350.67, 165.00)">
-          <title>2026-10-08: 12</title>
-          <rect x="0" y="0" width="19.73" height="45.00" rx="6" ry="6"
+        <g class="bar" transform="translate(350.67, 176.25)">
+          <title>2026-10-09: 9</title>
+          <rect x="0" y="0" width="19.73" height="33.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.39s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(375.33, 176.25)">
-          <title>2026-10-09: 9</title>
-          <rect x="0" y="0" width="19.73" height="33.75" rx="6" ry="6"
+        <g class="bar" transform="translate(375.33, 198.75)">
+          <title>2026-10-10: 3</title>
+          <rect x="0" y="0" width="19.73" height="11.25" rx="6" ry="6"
                 style="animation: grow 0.8s 0.42s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(400.00, 198.75)">
-          <title>2026-10-10: 3</title>
-          <rect x="0" y="0" width="19.73" height="11.25" rx="6" ry="6"
+        <g class="bar" transform="translate(400.00, 153.75)">
+          <title>2026-10-11: 15</title>
+          <rect x="0" y="0" width="19.73" height="56.25" rx="6" ry="6"
                 style="animation: grow 0.8s 0.45s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(424.67, 153.75)">
-          <title>2026-10-11: 15</title>
-          <rect x="0" y="0" width="19.73" height="56.25" rx="6" ry="6"
+        <g class="bar" transform="translate(424.67, 116.25)">
+          <title>2026-10-12: 25</title>
+          <rect x="0" y="0" width="19.73" height="93.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.48s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(449.33, 116.25)">
-          <title>2026-10-12: 25</title>
-          <rect x="0" y="0" width="19.73" height="93.75" rx="6" ry="6"
+        <g class="bar" transform="translate(449.33, 135.00)">
+          <title>2026-10-13: 20</title>
+          <rect x="0" y="0" width="19.73" height="75.00" rx="6" ry="6"
                 style="animation: grow 0.8s 0.51s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(474.00, 135.00)">
-          <title>2026-10-13: 20</title>
-          <rect x="0" y="0" width="19.73" height="75.00" rx="6" ry="6"
+        <g class="bar" transform="translate(474.00, 161.25)">
+          <title>2026-10-14: 13</title>
+          <rect x="0" y="0" width="19.73" height="48.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.54s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(498.67, 161.25)">
-          <title>2026-10-14: 13</title>
-          <rect x="0" y="0" width="19.73" height="48.75" rx="6" ry="6"
+        <g class="bar" transform="translate(498.67, 180.00)">
+          <title>2026-10-15: 8</title>
+          <rect x="0" y="0" width="19.73" height="30.00" rx="6" ry="6"
                 style="animation: grow 0.8s 0.57s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(523.33, 180.00)">
-          <title>2026-10-15: 8</title>
-          <rect x="0" y="0" width="19.73" height="30.00" rx="6" ry="6"
+        <g class="bar" transform="translate(523.33, 146.25)">
+          <title>2026-10-16: 17</title>
+          <rect x="0" y="0" width="19.73" height="63.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.60s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
         <g class="bar" transform="translate(548.00, 146.25)">
-          <title>2026-10-16: 17</title>
+          <title>2026-10-17: 17</title>
           <rect x="0" y="0" width="19.73" height="63.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.63s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(572.67, 146.25)">
-          <title>2026-10-17: 17</title>
-          <rect x="0" y="0" width="19.73" height="63.75" rx="6" ry="6"
+        <g class="bar" transform="translate(572.67, 161.25)">
+          <title>2026-10-18: 13</title>
+          <rect x="0" y="0" width="19.73" height="48.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.66s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(597.33, 161.25)">
-          <title>2026-10-18: 13</title>
-          <rect x="0" y="0" width="19.73" height="48.75" rx="6" ry="6"
+        <g class="bar" transform="translate(597.33, 90.00)">
+          <title>2026-10-19: 32</title>
+          <rect x="0" y="0" width="19.73" height="120.00" rx="6" ry="6"
                 style="animation: grow 0.8s 0.69s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(622.00, 90.00)">
-          <title>2026-10-19: 32</title>
-          <rect x="0" y="0" width="19.73" height="120.00" rx="6" ry="6"
+        <g class="bar" transform="translate(622.00, 153.75)">
+          <title>2026-10-20: 15</title>
+          <rect x="0" y="0" width="19.73" height="56.25" rx="6" ry="6"
                 style="animation: grow 0.8s 0.72s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(646.67, 153.75)">
-          <title>2026-10-20: 15</title>
-          <rect x="0" y="0" width="19.73" height="56.25" rx="6" ry="6"
+        <g class="bar" transform="translate(646.67, 195.00)">
+          <title>2026-10-21: 4</title>
+          <rect x="0" y="0" width="19.73" height="15.00" rx="6" ry="6"
                 style="animation: grow 0.8s 0.75s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(671.33, 195.00)">
-          <title>2026-10-21: 4</title>
-          <rect x="0" y="0" width="19.73" height="15.00" rx="6" ry="6"
+        <g class="bar" transform="translate(671.33, 180.00)">
+          <title>2026-10-22: 8</title>
+          <rect x="0" y="0" width="19.73" height="30.00" rx="6" ry="6"
                 style="animation: grow 0.8s 0.78s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(696.00, 180.00)">
-          <title>2026-10-22: 8</title>
-          <rect x="0" y="0" width="19.73" height="30.00" rx="6" ry="6"
+        <g class="bar" transform="translate(696.00, 157.50)">
+          <title>2026-10-23: 14</title>
+          <rect x="0" y="0" width="19.73" height="52.50" rx="6" ry="6"
                 style="animation: grow 0.8s 0.81s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(720.67, 157.50)">
-          <title>2026-10-23: 14</title>
-          <rect x="0" y="0" width="19.73" height="52.50" rx="6" ry="6"
+        <g class="bar" transform="translate(720.67, 206.25)">
+          <title>2026-10-24: 1</title>
+          <rect x="0" y="0" width="19.73" height="3.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.84s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
         
-        <g class="bar" transform="translate(745.33, 206.25)">
-          <title>2026-10-24: 1</title>
-          <rect x="0" y="0" width="19.73" height="3.75" rx="6" ry="6"
+        <g class="bar" transform="translate(745.33, 101.25)">
+          <title>2026-10-25: 29</title>
+          <rect x="0" y="0" width="19.73" height="108.75" rx="6" ry="6"
                 style="animation: grow 0.8s 0.87s ease-out forwards; transform-origin: bottom;">
           </rect>
         </g>
@@ -223,8 +223,8 @@
   </g>
   <!-- x-axis ticks (週目盛りだけ) -->
   <g class="axis">
-    <text x="30" y="232">09-25</text>
-    <text x="400.00" y="232">10-10</text>
-    <text x="734.00" y="232">10-24</text>
+    <text x="30" y="232">09-26</text>
+    <text x="400.00" y="232">10-11</text>
+    <text x="734.00" y="232">10-25</text>
   </g>
 </svg>
