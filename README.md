@@ -1,81 +1,59 @@
-<!-- =========================================================
-GitHub Profile README — Modern / Minimal / Animated
-TODO:
-  1) kskmasa を自分のIDに置換
-  2) 各SNSリンクを差し替え
-  3) assets/monthly_activity.svg はワークフローが自動生成
-========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Tanakaaa
-*Designing systems that make life simpler and smarter.*
+# Hi, I'm kskmasa 👋
 
-✨ Full-stack Engineer / Product Designer  
-💡 AI Automation・Productivity Apps・Creative Tools
+### 業務システムの開発経験を、日常で使えるプロダクトへ。
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+Software Engineer · Web Products · AI Automation
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kskmasa&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kskmasa&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs"/>
-</p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Automation+Enthusiast;Building+apps+that+empower+people;Always+learning%2C+always+creating." alt="typing animation"/>
-</a>
+[IPKensaku ↗](https://ipkensaku.com) &nbsp; / &nbsp; [Affintype ↗](https://affintype.com) &nbsp; / &nbsp; [Repositories ↗](https://github.com/kskmasa?tab=repositories)
 
 </div>
 
 ---
 
-### 🧠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## About
 
-> “Design isn’t what it looks like — it’s how it works.”
+業務システムの設計・開発から、個人サービスの公開・改善まで取り組んでいるエンジニアです。  
+Java / Spring、VB.NET / SQL での開発経験を土台に、Web アプリや AI を使った開発自動化を試しています。
 
----
+- **仕事で大切にしていること** — 要件を整理し、設計・実装・テストまでつなげること。
+- **個人開発で目指していること** — 小さく公開して、使いながら改善を重ねること。
+- **いま関心があること** — AI エージェントが開発・レビュー・運用を継続できる仕組みづくり。
 
-## 🔄 現在の開発中プロジェクト
-<!-- PROJECTS:START -->
-### 🔄 Currently Building
-- **[kskmasa](https://github.com/kskmasa/kskmasa)** — No description  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 1d ago</sub>
-- **[advent-5x5-hands-on-template](https://github.com/kskmasa/advent-5x5-hands-on-template)** — 5日×5テーマのハンズオンAdventテンプレート  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#3572A5;border-radius:50%;vertical-align:middle;margin-right:6px'></span>Python • ⭐ 0 • updated 376d ago</sub>
-- **[UseGithubHowTo](https://github.com/kskmasa/UseGithubHowTo)** — No description  
-  <sub><span style='display:inline-block;width:10px;height:10px;background:#cccccc;border-radius:50%;vertical-align:middle;margin-right:6px'></span>- • ⭐ 0 • updated 383d ago</sub>
-<!-- PROJECTS:END -->
+## Products
 
----
+| プロダクト | 取り組んでいること | リンク |
+| :--- | :--- | :--- |
+| **IPKensaku** | IP アドレスや ISP・ASN、位置情報などを調べる Web ツール。使いやすさと検索体験を改善。 | [ipkensaku.com ↗](https://ipkensaku.com) |
+| **Affintype** | 性格タイプ診断をテーマにした Web サービス。診断体験やコンテンツを開発。 | [affintype.com ↗](https://affintype.com) |
 
-## 🏃 最近の活動
+## Toolbox
+
+**業務で使ってきた技術**
+
+Java · Spring · VB.NET · SQL · JDBC · DB2 · HTML / CSS / JavaScript
+
+**個人開発・自動化で取り組んでいる領域**
+
+Python · TypeScript · React · FastAPI · GitHub Actions · Linux · Cloudflare / Vercel
+
+## Exploring
+
+- **AI × Software Development** — タスク分解、実装、レビュー、CI をつなぐ開発フロー。
+- **Product Engineering** — 実装だけでなく、公開後の使いやすさや改善まで。
+- **Developer Experience** — 繰り返す作業を自動化し、考える時間を増やす。
+
+## Public Activity
+
 <!-- ACTIVITY:START -->
-_No recent public activity_
+[最近の公開アクティビティを見る ↗](https://github.com/kskmasa?tab=overview)
 <!-- ACTIVITY:END -->
 
----
-
-## 🕓 今月のアクティビティ
-<!-- MONTHLY_GRAPH:START -->
-### 🕓 This Month
-
-![Monthly Activity](assets/monthly_activity.svg)
-<!-- MONTHLY_GRAPH:END -->
+<sub>公開イベントのみを自動表示しています。個人サービスの開発など、非公開リポジトリでの活動は含みません。</sub>
 
 ---
 
-### 🌐 Connect
-[![Website](https://img.shields.io/badge/%F0%9F%8C%8D%20Website-Visit-blue?style=flat)](https://yourdomain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x)](https://x.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E4405F?style=flat&logo=instagram)](https://instagram.com/yourhandle)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
-</p>
+<div align="center">
+<sub>Building useful things, one improvement at a time.</sub>
+</div>
