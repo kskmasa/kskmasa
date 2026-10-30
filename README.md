@@ -8,6 +8,9 @@ Software Engineer · Web Products · AI Automation
 
 [IPKensaku ↗](https://ipkensaku.com) &nbsp; / &nbsp; [Affintype ↗](https://affintype.com) &nbsp; / &nbsp; [Repositories ↗](https://github.com/kskmasa?tab=repositories)
 
+[![X](https://img.shields.io/badge/X-%40mof__dev-111111?style=flat&logo=x&logoColor=white)](https://x.com/mof_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Masaki%20Furukawa-0A66C2?style=flat)](https://www.linkedin.com/in/masaki-furukawa-bbb8b022a/)
+
 </div>
 
 ---
