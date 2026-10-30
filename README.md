@@ -47,7 +47,7 @@ Python · TypeScript · React · FastAPI · GitHub Actions · Linux · Cloudflar
 ## Public Activity
 
 <!-- ACTIVITY:START -->
-[最近の公開アクティビティを見る ↗](https://github.com/kskmasa?tab=overview)
+- 2026-10-29 · [openai/codex](https://github.com/openai/codex) — Issue を作成
 <!-- ACTIVITY:END -->
 
 <sub>公開イベントのみを自動表示しています。個人サービスの開発など、非公開リポジトリでの活動は含みません。</sub>
