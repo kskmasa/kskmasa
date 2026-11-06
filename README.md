@@ -50,8 +50,8 @@ Python · TypeScript · React · FastAPI · GitHub Actions · Linux · Cloudflar
 ## Public Activity
 
 <!-- ACTIVITY:START -->
-- 2026-11-04 · [kskmasa/futsal30](https://github.com/kskmasa/futsal30) — コードを更新
 - 2026-11-05 · [kskmasa/futsal30](https://github.com/kskmasa/futsal30) — コードを更新
+- 2026-11-04 · [kskmasa/futsal30](https://github.com/kskmasa/futsal30) — コードを更新
 - 2026-10-29 · [openai/codex](https://github.com/openai/codex) — Issue を作成
 <!-- ACTIVITY:END -->
 
