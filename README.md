@@ -6,7 +6,7 @@
 
 Software Engineer · Web Products · AI Automation
 
-[IPKensaku ↗](https://ipkensaku.com) &nbsp; / &nbsp; [Affintype ↗](https://affintype.com) &nbsp; / &nbsp; [Repositories ↗](https://github.com/kskmasa?tab=repositories)
+[Repositories ↗](https://github.com/kskmasa?tab=repositories)
 
 [![X](https://img.shields.io/badge/X-%40mof__dev-111111?style=flat&logo=x&logoColor=white)](https://x.com/mof_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Masaki%20Furukawa-0A66C2?style=flat)](https://www.linkedin.com/in/masaki-furukawa-bbb8b022a/)
@@ -23,13 +23,6 @@ Java / Spring、VB.NET / SQL での開発経験を土台に、Web アプリや A
 - **仕事で大切にしていること** — 要件を整理し、設計・実装・テストまでつなげること。
 - **個人開発で目指していること** — 小さく公開して、使いながら改善を重ねること。
 - **いま関心があること** — AI エージェントが開発・レビュー・運用を継続できる仕組みづくり。
-
-## Products
-
-| プロダクト | 取り組んでいること | リンク |
-| :--- | :--- | :--- |
-| **IPKensaku** | IP アドレスや ISP・ASN、位置情報などを調べる Web ツール。使いやすさと検索体験を改善。 | [ipkensaku.com ↗](https://ipkensaku.com) |
-| **Affintype** | 性格タイプ診断をテーマにした Web サービス。診断体験やコンテンツを開発。 | [affintype.com ↗](https://affintype.com) |
 
 ## Toolbox
 
