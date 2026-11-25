@@ -6,7 +6,7 @@
 
 Software Engineer · Web Products · AI Automation
 
-[IPKensaku ↗](https://ipkensaku.com) &nbsp; / &nbsp; [Affintype ↗](https://affintype.com) &nbsp; / &nbsp; [Component Library ↗](https://dev-components.com) &nbsp; / &nbsp; [Repositories ↗](https://github.com/kskmasa?tab=repositories)
+[IPKensaku ↗](https://ipkensaku.com) &nbsp; / &nbsp; [Affintype ↗](https://affintype.com) &nbsp; / &nbsp; [Repositories ↗](https://github.com/kskmasa?tab=repositories)
 
 [![X](https://img.shields.io/badge/X-%40mof__dev-111111?style=flat&logo=x&logoColor=white)](https://x.com/mof_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Masaki%20Furukawa-0A66C2?style=flat)](https://www.linkedin.com/in/masaki-furukawa-bbb8b022a/)
@@ -30,7 +30,6 @@ Java / Spring、VB.NET / SQL での開発経験を土台に、Web アプリや A
 | :--- | :--- | :--- |
 | **IPKensaku** | IP アドレスや ISP・ASN、位置情報などを調べる Web ツール。使いやすさと検索体験を改善。 | [ipkensaku.com ↗](https://ipkensaku.com) |
 | **Affintype** | 性格タイプ診断をテーマにした Web サービス。診断体験やコンテンツを開発。 | [affintype.com ↗](https://affintype.com) |
-| **Component Library** | HTML・CSS・JavaScript の UI コンポーネント集。プレビューを確認してコードをコピーでき、検索・カテゴリ絞り込みに対応。 | [dev-components.com ↗](https://dev-components.com) |
 
 ## Toolbox
 
